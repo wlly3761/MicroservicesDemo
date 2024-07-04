@@ -5,3 +5,5 @@
 /Product.API/obj/
 /Web.MVC/bin/
 /Web.MVC/obj/
+*.user
+/.vs/MicroservicesDemo
