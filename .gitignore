@@ -1,5 +1,7 @@
 /.idea/
 /Order.API/bin/
 /Order.API/obj/
+/Product.API/bin/
+/Product.API/obj/
 /Web.MVC/bin/
 /Web.MVC/obj/
